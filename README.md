@@ -1,46 +1,41 @@
-
-
-
-
 ### Hello World 👋 It's [Colin!](https://main--the-best-portfolio.netlify.app/)
-<a href="https://www.linkedin.com/in/colin-douglas-068ba8262/">
-<img align="left" alt="Colin Douglas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
-<br />
-
-<br />
 
 I'm Colin Douglas, a Full Stack Developer and Cloud Enthusiast. Apart from that I'm a racecar driver, photographer, gamer, and unofficial film critic. 
 
-
-
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/colin-douglas-068ba8262/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+<br />
 
 **Personal Stuffs:**
 
-
+Below is a link to my portfolio that I wrote in React.s and deployed on Netlify. 
 - 📝[Portfolio](https://main--the-best-portfolio.netlify.app/)
-
-
-
 
 
 **Community**
 
-- 💬 [DEV](https://dev.to/dpprdgls)
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
+</p>
+<br />
+
 
 **Languages and Tools:**
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-<br/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,anaconda,apollo,css,github,graphql,heroku,html,js,mysql,netlify,npm,postgres,react,regex,sequelize,tailwind,vite&perline=6" />
+  </a>
+</p>
+<br />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dpprdgls&theme=vue-dark)](https://git.io/streak-stats)
 
