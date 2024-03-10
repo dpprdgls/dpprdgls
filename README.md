@@ -3,28 +3,24 @@
 
 I'm Colin Douglas, a Full Stack Developer and Cloud Enthusiast. Apart from that I'm a racecar driver, photographer, gamer, and unofficial film critic. 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/colin-douglas-068ba8262/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-<br />
-
-**Personal Stuffs:**
-
-Below is a link to my portfolio that I wrote in React.s and deployed on Netlify. 
+- 🔭 I’m currently working on a film blog and thinking about creating an app for my Tidbyt
+- 💬 Brainstorm with me over tech, algorithms, career, and gaming 
+- 📫 How to reach me: daps.douglas@gmail.com
 - 📝[Portfolio](https://main--the-best-portfolio.netlify.app/)
-
 
 **Community**
 
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/colin-douglas-068ba8262/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <a href="https://dev.to/dpprdgls">
     <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
   </a>
 </p>
 <br />
+
 
 
 **Languages and Tools:**
@@ -43,6 +39,8 @@ Below is a link to my portfolio that I wrote in React.s and deployed on Netlify.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpprdgls&layout=compact&theme=vue-dark)](https://github.com/dpprdgls/github-readme-stats)
 
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dpprdgls.dpprdgls)
 
 
 
