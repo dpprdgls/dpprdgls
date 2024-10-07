@@ -5,7 +5,7 @@ I am a Full Stack Developer and budding Cloud Enthusiast. Apart from that I'm a 
 
 The journey didn't stop there as I continued on to learn HTML, CSS, JavaScript, React.js, Express.js and MongoDB in order to create full stack applications. After completing UC Berkeley's Full Stack Developer Course I am continuing to learn and hone my skills with the hopes of one day getting the opportunity to do it full time. 
 
-- 🔭 I’m currently working on a film blog
+- 🔭 I’m currently working on an automotive blog
 - 💬 Brainstorm with me over tech, algorithms, career, and gaming 
 - 📫 How to reach me: daps.douglas@gmail.com
 - 📝[Portfolio](https://main--the-best-portfolio.netlify.app/)
