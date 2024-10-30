@@ -1,9 +1,10 @@
-### Hey there 👋 It's [Colin!](https://main--the-best-portfolio.netlify.app/)
+### Hey there 👋 It's [Colin!](https://dapsdesigns.com/)
 
 
-I am a Full Stack Developer and budding Cloud Enthusiast. Apart from that I'm a racecar driver, photographer, gamer, and unofficial film critic. I studied at the University of California Santa Barbara where I fell in love with art and photography. These creative fields eventually led to the world of coding. I started learning to code in C++ when I first began in order to make apps for my Arduino before learning Python for Data Science applications. 
 
-The journey didn't stop there as I continued on to learn HTML, CSS, JavaScript, React.js, Express.js and MongoDB in order to create full stack applications. After completing UC Berkeley's Full Stack Developer Course I am continuing to learn and hone my skills with the hopes of one day getting the opportunity to do it full time. 
+
+I am a Full Stack Developer and budding cloud enthusiast. I’m always open to collaboration and would love to hear from you. You can check out some of my projects, visit my website, or reach out via my email address below!
+
 
 - 🔭 I’m currently working on an automotive blog
 - 💬 Brainstorm with me over tech, philosophy, UI/UX, and gaming 
