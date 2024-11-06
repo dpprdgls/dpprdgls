@@ -3,7 +3,7 @@
 
 
 
-I am a Full Stack Developer and budding cloud enthusiast. I’m always open to collaboration and would love to hear from you. You can check out some of my projects, visit my website, or reach out via my email address below!
+I am a Full Stack Developer and budding cloud enthusiast. I’m always open to collaboration and would love to hear from you. You can check out some of my projects, visit my website, or reach out via my email address below! Let's make it happen.
 
 
 - 🔭 I’m currently working on an automotive blog
