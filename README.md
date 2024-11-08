@@ -36,6 +36,7 @@ I am a Full Stack Developer and budding cloud enthusiast. I’m always open to c
   </a>
 </p>
 <br />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dpprdgls)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dpprdgls&theme=vue-dark)](https://git.io/streak-stats)
 
