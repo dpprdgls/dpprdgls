@@ -37,7 +37,7 @@ I am a Full Stack Developer and budding cloud enthusiast. I’m always open to c
 </p>
 <br />
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dpprdgls&theme=vue-dark)](https://git.io/streak-stats)
 
