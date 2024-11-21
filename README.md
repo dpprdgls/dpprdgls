@@ -3,7 +3,7 @@
 
 
 
-I am a Full Stack Developer and budding cloud enthusiast. I’m always open to collaboration and would love to hear from you. I am open to freelancing currently working for a few clients. You can check out some of my projects, visit my website, or reach out via my email address below. 
+I am a Full Stack Developer and budding cloud enthusiast. I’m always open to collaboration and would love to hear from you. I am open to freelancing currently working for a few clients. You can check out some of my projects, visit my website, or reach out via my email address below!
 
 - 🔭 I’m currently working on an automotive blog and a project managment tool
 - 💬 Brainstorm with me over tech, philosophy, UI/UX, and gaming 
