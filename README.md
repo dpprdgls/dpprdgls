@@ -31,7 +31,7 @@ I am a Full Stack Developer and budding cloud enthusiast. I’m always open to c
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,anaconda,apollo,css,github,graphql,heroku,html,js,mysql,netlify,npm,postgres,react,regex,sequelize,tailwind,vite&perline=6" />
+    <img src="https://skillicons.dev/icons?i=css,github,heroku,html,js,react,regex,sequelize,tailwind,vite&perline=5" />
   </a>
 </p>
 <br />
