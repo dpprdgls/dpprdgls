@@ -38,9 +38,9 @@ I am a Full Stack Developer and budding cloud enthusiast. I’m always open to c
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dpprdgls&theme=vue-dark)](https://git.io/streak-stats)
 
-[![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpprdgls&theme=vue-dark)](https://github.com/dpprdgls/github-readme-stats)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpprdgls&layout=compact&theme=vue-dark)](https://github.com/dpprdgls/github-readme-stats)
 
